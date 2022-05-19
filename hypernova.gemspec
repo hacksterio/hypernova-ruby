@@ -46,5 +46,5 @@ Gem::Specification.new do |spec|
   # see https://github.com/weppos/publicsuffix-ruby/issues/127
   spec.add_development_dependency "public_suffix", "=1.4.6"
 
-  spec.add_runtime_dependency "faraday", "~> 2.3.0"
+  spec.add_runtime_dependency "faraday", "~> 0.12"
 end
