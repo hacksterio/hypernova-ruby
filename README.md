@@ -1,5 +1,5 @@
 # REASON FOR FORK
-We needed to bump the Faraday dependency to 2.3.0 to be compatible with newer Rails packages.
+We needed to bump the Faraday dependency to be compatible with newer Rails packages, namely the google cloud packages.
 
 # hypernova-ruby [![Build Status](https://travis-ci.org/airbnb/hypernova-ruby.svg)](https://travis-ci.org/airbnb/hypernova-ruby)
 
